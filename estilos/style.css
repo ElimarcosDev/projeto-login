@@ -37,6 +37,9 @@ main{
     transform: translate(-50%, -50%);
     overflow: hidden;
     background-color: 0px 0px 0px rgba(0, 0, 0, 0.402);
+    
+    transition: width 0.5s, height 0.5s;
+    transition-timing-function: ease;
 }
 #imagem{
     background-color: #DE34BF;
