@@ -38,5 +38,12 @@
     body{
         background-image: linear-gradient(to top, #290d2d, #a535b6);
     }
+    div#form > h1{
+        font-size: 2em;
+
+    }
     
+    div#form > p{
+        font-size: 1.2emem;
+    }
 }
