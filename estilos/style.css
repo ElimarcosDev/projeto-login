@@ -111,3 +111,8 @@ form > input[type=submit]:hover{
 div.campo > label{
     display: none;
 }
+.campo > i{
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+}
